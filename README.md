@@ -6,8 +6,6 @@ A web applicaiton built with React and Vite. Originally a private project, this 
 - API integration
 - Basic styling with CSS
 
-## All the code is in my SRC folder
-
 ## Getting Started
 ### Prerequisites 
 - Node.js
