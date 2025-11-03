@@ -16,5 +16,12 @@ A web applicaiton built with React and Vite. Originally a private project, this 
 ```bash
 git clone https://github.com/chrism-cs/ReactWeb-interview-app.git
 cd ReactWeb-interview-app
+```
+2. Install dependencies
+```bash
 npm install
+```
+3. Usage
+```bash
 npm run dev:all
+```
