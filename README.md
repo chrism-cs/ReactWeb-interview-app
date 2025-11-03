@@ -1,8 +1,22 @@
+# ReactWeb Interview App
+A web applicaiton built with React and Vite. Originally a private project, this public version has had API keys removed.
+
+## Features
+- Modular component structure
+- API integration
+- Basic styling with CSS
+
 ## All the code is in my SRC folder
 
-# NOTE
-I have replaced my API keys with 'REDACTED' seen in api.js and .env
+## Getting Started
+### Prerequisites 
+- Node.js
+- npm
 
-# How to run?
-Run both back end for AI and start react file with npm run dev:all
-
+### Installation
+1. Clone the repo:
+```bash
+git clone https://github.com/chrism-cs/ReactWeb-interview-app.git
+cd ReactWeb-interview-app
+npm install
+npm run dev:all
